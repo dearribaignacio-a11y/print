@@ -1,0 +1,10 @@
+# Material bajado de Instagram (pesado, con fotos personales; no va a la web)
+material-instagram/
+
+# Configuración local
+.claude/
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
